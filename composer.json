@@ -25,6 +25,7 @@
         "symfony/var-dumper": "^7.0",
         "httpsoft/http-message": "^1.1",
         "httpsoft/http-server-request": "^1.1",
-        "fadonougbo/password-policy": "^1.0"
+        "fadonougbo/password-policy": "^1.0",
+        "hassankhan/config": "^3.2"
     }
 }
